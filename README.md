@@ -172,11 +172,6 @@ Test Accuracy
 
 这说明继续增加模型复杂度虽然提高了训练集拟合能力，但没有带来更好的测试集表现，出现了明显的过拟合倾向。
 
-实验结果见：
-
-```text
-results/depth_comparison.png
-```
 
 ---
 
