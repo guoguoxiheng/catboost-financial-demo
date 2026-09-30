@@ -222,9 +222,6 @@ catboost_demo/
 ├── main.py
 │   └── CatBoost 主训练及分析程序
 │
-├── main_learning.py
-│   └── 学习和实验过程代码
-│
 ├── plot_results.py
 │   └── depth 参数实验结果绘图
 │
