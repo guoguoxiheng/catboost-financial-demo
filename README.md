@@ -162,6 +162,9 @@ Train Accuracy
 Test Accuracy
 74.60% → 75.10% → 73.20%
 ```
+### 实验结果
+
+![Tree Depth Comparison](results/depth_comparison.png)
 
 随着树深度增加，训练集 Accuracy 持续提高。
 
@@ -189,6 +192,10 @@ results/depth_comparison.png
 | 2 | Volume | 29.74 |
 | 3 | RSI | 26.42 |
 | 4 | Volatility | 7.20 |
+
+### 特征重要性结果
+
+![Feature Importance](results/feature_importance.png)
 
 结果表明，在当前模拟数据及当前模型中，`macd` 对模型预测的总体贡献较高，其次为 `volume` 和 `rsi`。
 
