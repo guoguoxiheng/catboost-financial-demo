@@ -1,0 +1,4 @@
+dataset,accuracy
+train,0.7340625
+validation,0.75125
+test,0.742
